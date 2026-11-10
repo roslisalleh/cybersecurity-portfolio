@@ -1,2 +1,2 @@
-# cybersecurity-portfilio
+# cybersecurity-portfolio
 This is my CV. 
